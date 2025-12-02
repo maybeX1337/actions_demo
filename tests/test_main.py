@@ -1,4 +1,5 @@
 import unittest
+from main_lib import EBook, Librarian, Library, PrintedBook, User
 from src.main import add, subtract
 
 
